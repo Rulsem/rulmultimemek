@@ -236,7 +236,6 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".botinfo", description: "✧ Info nya ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
             {title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
             {title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
@@ -246,7 +245,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
 	rows: [
 	    {title: `🥞 〉ɞ 『 Get Hadiah 』`, rowId: ".daily", description: '✧ Mau hadiah nggak kak?... >.<'},
-	    {title: `💰 ∫ » Donasi «`, rowId: ".donasi", description: '✧ Support BOT agar on 1 Minggu non stop'},
+	    {title: `ℹ️ 〉ɞ 『 Dashboard bot 』`, rowId: ".dashboard", description: '✧ dashboard botnya kack'},
 	{title: `✨ 〉ɞ 『 Rating 』`, rowId: ".rate", description: '✧ Jangan kasih rate rendah dong :/'},    
 	{title: `🗳️ 〉ɞ 『 My Profile 』`, rowId: ".profile", description: '✧ Siapa ya kamu?...'},
 	]
