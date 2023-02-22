@@ -1,36 +1,13 @@
-let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let imgr = flaaa.getRandom()
-let text = `*SYARAT & KETENTUAN*
-    
+import fs from 'fs'
+import fetch from 'node-fetch'
+let handler  = async (m, { conn, usedPrefix: _p }) => {
+let info = `script private om klo mau yg gratis ambil di github  github.com/Putbotz/PutXdd `
+let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
-📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Jangan salah gunakan script ini!
-3. Jangan di per jual belikan
-• Jika ada eror di sc hub https://wa.me/60147366955
-
---------Thanks to ✨---------
-Allah SWT
-My parents
-All Friends
-All Contributors
-All Creator Bot
-Adiwajshing
-Nurutomo
-BochilGaming`
-const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/60147366955'}},
-]
-let tm = {
-text: text,
-footer: global.bottime,
-templateButtons: templateButtons,
-image: `${imgr + 'Script'}`,
-}
-conn.sendMessage(m.chat, tm, m)
+conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: {title: global.wm, body: 'ᴡᴀᴀʟᴀɪᴋᴜᴍᴍᴜꜱꜱᴀʟᴀᴍ ᴡᴀʀᴀʜᴍᴀᴛᴜʟʟᴀʜɪ ᴡᴀʙᴀʀᴏᴋᴀᴛᴜʜ', sourceUrl: owner, thumbnail: fs.readFileSync('./thumbnail.jpg')  }}})
 }
 handler.help = ['sc'] 
  handler.tags = ['info'] 
  handler.command = /^(s(ourcode|c))$/i 
-  
- export default handler
+
+export default handler
