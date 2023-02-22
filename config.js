@@ -27,11 +27,11 @@ let wibh = moment.tz('Asia/Kuala_Lumpur').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
+global.sig = 'https://instagram.com/whooputt'
+global.syt = 'https://youtube.com/channel/Putbotz'
+global.sgh = 'https://github.com/Putbotz'
+global.sgc = 'wa.me/601169466091'
+global.swa = 'wa.me/601169466091'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -54,8 +54,8 @@ global.nameown = 'Put'
 global.owner = [
   ['60147366955'],
   ['60147366955'],
-  ['60147366955'],
-  ['60147366955', 'Putbotz', true]
+  ['601169466091'],
+  ['601169466091', 'Putbotz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
