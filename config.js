@@ -46,8 +46,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '601169466091'
 global.nomorown = '601169466091'
-global.namebot = '𝗛𝗮𝗻𝘇𝗼𝗕𝗼𝘁 メ'
-global.nameown = '𝗛𝗮𝗻𝘇𝗼𝗕𝗼𝘁 メ'
+global.namebot = '𝙉𝙨𝙜𝘽𝙤𝙩𝙯'
+global.nameown = '𝙉𝙨𝙜𝘽𝙤𝙩𝙯'
 
 
 /*============== STAFF ==============*/
@@ -55,7 +55,7 @@ global.owner = [
   ['60147366955'],
   ['60147366955'],
   ['601169466091'],
-  ['60132008669', '𝗛𝗮𝗻𝘇𝗼𝗕𝗼𝘁 メ', true]
+  ['60132008669', '𝙉𝙨𝙜𝘽𝙤𝙩𝙯', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,7 +105,7 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Putbotz' //Main Watermark
+global.wm = 'By 𝙉𝙨𝙜𝘽𝙤𝙩𝙯' //Main Watermark
 global.wm2 = 'Putbotz'
 global.wm3 = 'Botz | By Putbotz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'By 𝙉𝙨𝙜𝘽𝙤𝙩𝙯'
+global.stickauth = `𝙉𝙨𝙜𝘽𝙤𝙩𝙯`
 
 global.multiplier = 38 // The higher, The harder levelup
 
