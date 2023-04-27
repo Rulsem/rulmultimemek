@@ -9,13 +9,13 @@ export async function before(m) {
 ${user.banned ? '📮Maaf, kamu dibanned & Tidak bisa menggunakan bot ini lagi' : `jangan spam`}`.trim()
 
     if (new Date() - user.pc < 21600000) return // waktu ori 21600000 (6 jam)
-    await this.sendButton(m.chat, txt, user.banned ? wm : '© 𝗛𝗮𝗻𝘇𝗼𝗕𝗼𝘁 メ', [user.banned ? 'OWNER' : 'OWNER', user.banned ? '.owner' : '.owner'], m)
+    await this.sendButton(m.chat, txt, user.banned ? wm : '© 𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0 メ', [user.banned ? 'OWNER' : 'OWNER', user.banned ? '.owner' : '.owner'], m)
     user.pc = new Date * 1
 }
 
 
 function ucapan() {
-    const time = moment.tz('Asia/Jakarta').format('HH')
+    const time = moment.tz('Asia/Sabah').format('HH')
     let res = "Selamat dinihari 🌆"
     if (time >= 4) {
         res = "Selamat pagi 🌄"
