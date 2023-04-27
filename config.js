@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Kuala_Lumpur').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/whooputt'
-global.syt = 'https://youtube.com/channel/Putbotz'
-global.sgh = 'https://github.com/Putbotz'
+global.sig = 'https://instagram.com/rul_nak_elfbar'
+global.syt = 'https://youtube.com/channel/Rulzbot'
+global.sgh = 'https://github.com/Rulbot'
 global.sgc = 'https://chat.whatsapp.com/Gu2Nv3hQ1LyIyqAkfROkLY'
-global.swa = 'wa.me/601169466091'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.swa = 'wa.me/60102408450'
+global.swb = 'https://discord.gg/4HvezMA'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -44,18 +44,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601169466091'
-global.nomorown = '601169466091'
-global.namebot = '𝙉𝙨𝙜𝘽𝙤𝙩𝙯'
-global.nameown = '𝙉𝙨𝙜𝘽𝙤𝙩𝙯'
+global.nomorbot = '60163644714'
+global.nomorown = '60102408450'
+global.namebot = '𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0'
+global.nameown = '𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60147366955'],
-  ['60147366955'],
-  ['601169466091'],
-  ['60132008669', '𝙉𝙨𝙜𝘽𝙤𝙩𝙯', true]
+  ['60102408450'],
+  ['60163644714'],
+  ['60163644714'],
+  ['60102408450', '𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,14 +105,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By 𝙉𝙨𝙜𝘽𝙤𝙩𝙯' //Main Watermark
-global.wm2 = 'Putbotz'
-global.wm3 = 'Botz | By Putbotz'
+global.wm = 'By 𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0' //Main Watermark
+global.wm2 = 'rulbotz'
+global.wm3 = 'Botz | By rulzbot'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Putbotz | ʙʏ ${global.nameown}`
-global.author = 'Putbotz' 
-global.packname = 'Putbotz'
+global.titlebot = `Rulzbotz | ʙʏ ${global.nameown}`
+global.author = 'rulzbot' 
+global.packname = 'rulzbot'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'feb 1 2023'
 
@@ -131,11 +131,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Putbotz'
-global.umurowner = '16'
-global.asalowner = 'Malaysia , selangor'
+global.nameowner = 'Rulzbotz'
+global.umurowner = '17'
+global.asalowner = 'Malaysia , Sabah'
 global.nomorowner = 'wa.me/60147366955'
-global.pacarowner = 'maklu'
+global.pacarowner = 'mamak engko'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By 𝙉𝙨𝙜𝘽𝙤𝙩𝙯'
-global.stickauth = `𝙉𝙨𝙜𝘽𝙤𝙩𝙯`
+global.stickpack = 'By 𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0'
+global.stickauth = `𝕽𝖚𝖑𝖟𝕭𝖔𝖙2.0`
 
 global.multiplier = 38 // The higher, The harder levelup
 
